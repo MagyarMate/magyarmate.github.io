@@ -205,6 +205,7 @@ small {
 
 .experience_period {
     display: flex;
+    gap: .7rem;
     align-items: center;
     margin-top: .7rem;
 }
