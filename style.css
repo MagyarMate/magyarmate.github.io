@@ -321,7 +321,7 @@ ul.experience_list {
     line-height: 1;
     text-align: center;
     white-space: nowrap;
-    vertical-align: baseline;
+    vertical-align: middle;
     border-radius: .25rem;
     color: #fff;
     background-color: var(--color-primary);
